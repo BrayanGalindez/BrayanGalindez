@@ -1,9 +1,3 @@
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayangalindez24/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/brayangalindez)
-
----
-
 ## 🛠️ Languages and Tools
 
 ### 💡 Programming & Markup
